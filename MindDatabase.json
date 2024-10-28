@@ -1,0 +1,246 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answers": [
+        {
+          "response": "hello",
+          "personality": [
+            "neutral",
+            "positive"
+          ],
+          "score": 7
+        }
+      ]
+    },
+    {
+      "question": "hello",
+      "answers": [
+        {
+          "response": "Hello there! I'm your AI chat companion.",
+          "personality": [
+            "neutral",
+            "positive"
+          ],
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "sup!",
+      "answers": [
+        {
+          "response": "What's up?",
+          "personality": [
+            "neutral"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "wassup",
+      "answers": [
+        {
+          "response": "How are you doing?",
+          "personality": [
+            "neutral"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "how are you?",
+      "answers": [
+        {
+          "response": "I'm doing well, thanks for asking! As an AI, I don't have feelings, but I'm here to assist you with any questions or tasks you might have.",
+          "personality": [
+            "neutral",
+            "informative",
+            "positive"
+          ],
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "what can you do?",
+      "answers": [
+        {
+          "response": "As an AI assistant, I can help you with a wide range of tasks, such as:\n\n## Information and Research\n- Providing information on various topics\n- Answering questions and explaining concepts\n- Conducting research and analysis\n\n## Writing and Editing\n- Assisting with writing tasks (e.g., essays, articles, stories)\n- Proofreading and editing documents\n- Providing writing tips and feedback\n\n## Problem-Solving and Analysis\n- Helping with problem-solving and critical thinking\n- Analyzing data and providing insights\n- Offering recommendations and solutions\n\n## Task Assistance\n- Helping with scheduling and organization\n- Providing step-by-step instructions for tasks\n- Offering productivity tips and tools\n\nI'm here to help you in any way I can, so feel free to ask me about anything!",
+          "personality": [
+            "informative",
+            "helpful"
+          ],
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "tell me a joke",
+      "answers": [
+        {
+          "response": "Why don't scientists trust atoms? Because they make up everything!",
+          "personality": [
+            "humorous",
+            "playful",
+            "positive"
+          ],
+          "score": 1
+        },
+        {
+          "response": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+          "personality": [
+            "humorous",
+            "playful",
+            "positive"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "what's the weather like?",
+      "answers": [
+        {
+          "response": "Unfortunately, I don't have access to real-time weather data or your location information. However, I can provide general information about weather and climate if you have any specific questions.",
+          "personality": [
+            "neutral",
+            "informative"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "can you recommend a good book?",
+      "answers": [
+        {
+          "response": "Sure, I'd be happy to recommend a good book! What genre or topics are you interested in? Some popular and highly-rated books include:\n\n## Fiction\n- 'The Kite Runner' by Khaled Hosseini\n- 'The Book Thief' by Markus Zusak\n- 'The Hunger Games' series by Suzanne Collins\n\n## Non-Fiction\n- 'Educated' by Tara Westover\n- 'Sapiens' by Yuval Noah Harari\n- 'The Power of Habit' by Charles Duhigg\n\nLet me know if you have a specific preference, and I can provide more tailored recommendations.",
+          "personality": [
+            "helpful",
+            "knowledgeable"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "what's your name",
+      "answers": [
+        {
+          "response": "As an AI, I don't have personal names",
+          "personality": [
+            "neutral",
+            "informative",
+            "negative"
+          ],
+          "score": 4
+        },
+        {
+          "response": "My name is Ai im your assistant",
+          "score": 4
+        },
+        {
+          "response": "My name is robot",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "do you have any advice for staying motivated?",
+      "answers": [
+        {
+          "response": "Here are some tips that can help you stay motivated:\n\n## Set Specific Goals\nHaving clear and achievable goals can give you a sense of purpose and direction. Break down larger goals into smaller, actionable steps.\n\n## Celebrate Small Wins\nRecognize and celebrate your progress, no matter how small. This can help you build momentum and stay motivated.\n\n## Find Accountability\nShare your goals with others or find an accountability partner. This can help you stay on track and motivated.\n\n## Practice Self-Care\nMake sure to take breaks, get enough sleep, and engage in activities that you enjoy. Taking care of yourself can help you maintain your energy and motivation levels.\n\n## Reflect on Your Why\nRemind yourself of the reasons behind your goals. Connecting with your deeper motivations can help you stay focused and committed.",
+          "personality": [
+            "helpful",
+            "motivational"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Whos the president of america?",
+      "answers": [
+        {
+          "response": "Joe Biden",
+          "personality": [
+            "neutral"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "whats the capital of china?",
+      "answers": [
+        {
+          "response": "The capital of China is Beijing",
+          "personality": [
+            "neutral"
+          ],
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "which team won the champions league last year",
+      "answers": [
+        {
+          "response": "chilli",
+          "personality": [
+            "neutral"
+          ],
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "how many atoms you can see?",
+      "answers": [
+        {
+          "response": "As an  AI I do not have eyes or sight receptors",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "whats the name of your creator ai?",
+      "answers": [
+        {
+          "response": "My creator is named, Lukas Fukuoka Vieira",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "can you speak portuguese?",
+      "answers": [
+        {
+          "response": "yes",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "who made the superhero Spider Man?",
+      "answers": [
+        {
+          "response": "Stan Lee",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "whos the guy who made Spider Man?",
+      "answers": [
+        {
+          "response": "Stan Lee",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
