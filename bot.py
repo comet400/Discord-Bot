@@ -19,7 +19,7 @@ nltk.download('stopwords')
 nlp = spacy.load("en_core_web_sm")
 
 BOT_TOKEN = "YOUR_TOKEN_HERE"
-CHANEL_GENERAL_ID = 0 # Replace with your channel ID
+CHANEL_GENERAL_ID = 0 
 
 wiki_wiki = wikipediaapi.Wikipedia(
     language='en',
@@ -80,8 +80,7 @@ def get_answers(question: str, knowledge_base: dict) -> str:
     potential_responses = [q for q in knowledge_base["questions"] if q["question"] == question]
     if potential_responses:
         responses = potential_responses[0]["answers"]
-        # Ensure all responses have a 'score' key, defaulting to 0 if missing
-        total = sum((resp.get("score", 0) + 1) for resp in responses)  # Avoid zero or negative total
+        total = sum((resp.get("score", 0) + 1) for resp in responses)  
         pick = random.uniform(0, total)
         current = 0
         for response in responses:
